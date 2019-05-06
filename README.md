@@ -11,6 +11,6 @@ API Key: 9037af91-05b7-488f-8bef-2677d56558bf
 
 Constraints:
 
-You can use Google to lookup Android APIs
+You can use Google to lookup Android APIs, reference documentation, etc. https://developer.android.com/docs 
 
 Collaboration with team in the room is okay, we can help brainstorm and work through design considerationsv
